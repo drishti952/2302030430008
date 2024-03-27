@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-roboto: Roboto;
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-6xs: 7px;
+    --font-size-sm: 14px;
+    --font-size-xs: 12px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray-100: #232931;
+    --color-gray-200: #17191b;
+    --color-darkgray: #999;
+  
+    /* Gaps */
+    --gap-xl: 20px;
+  
+    /* Paddings */
+    --padding-11xl: 30px;
+    --padding-11xs: 2px;
+  }
+  
